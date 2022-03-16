@@ -1,5 +1,5 @@
 html {
-  box-sizing: borderbox;
+  box-sizing: border-box;
   background-color: #f2f1ed;
   font-family: Georgia, serif;
   line-height: 1.5;
@@ -39,8 +39,8 @@ nav a {
 }
 
 nav a:hover{
-  color: #793284;
-  text-decoration: none;
+  color: #b42885;
+  text-decoration: underline;
 }
 
 .intro {
